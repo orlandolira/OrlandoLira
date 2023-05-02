@@ -38,8 +38,10 @@
   <a href="mailto:orlandolira94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
+ ##
 
-  ![Snake animation](https://github.com/orlandolira/orlandolira/blob/output/github-contribution-grid-snake.svg)
-  
+ ![Snake animation](https://github.com/mercietc/mercietc/blob/output/github-contribution-grid-snake.svg)
+
+<div align ="center">
+  <img src="https://gpvc.arturio.dev/orlandolira" alt="visitors">
 </div>
