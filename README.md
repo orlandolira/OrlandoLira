@@ -6,14 +6,14 @@
   </h1>
 </div>
 ##
-  - 📍 Rio de Janeiro, Brazil &nbsp;
-  - 📚 Computer Science student at Rio de Janeiro State University - UERJ &nbsp; 
-  - 💗 Passionate about programming and software development  
-  - 👨🏻‍💻 Currently learning Python and Web Development  
-  - 💻 Discord: OrlandoLira#1234  
-  - 📫 Email: orlandolira94@gmail.com  
-  - 🌐 Website:  building 
-  - 🔍 LinkedIn: https://www.linkedin.com/in/orlando-lira-584289128/
+- 📍 Rio de Janeiro, Brazil &nbsp;
+- 📚 Computer Science student at Rio de Janeiro State University - UERJ &nbsp; 
+- 💗 Passionate about programming and software development  
+- 👨🏻‍💻 Currently learning Python and Web Development  
+- 💻 Discord: OrlandoLira#1234  
+- 📫 Email: orlandolira94@gmail.com  
+- 🌐 Website:  building 
+- 🔍 LinkedIn: https://www.linkedin.com/in/orlando-lira-584289128/
  ##
  
 <div align="center">
