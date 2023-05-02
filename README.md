@@ -1,10 +1,17 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/orlando-lira-584289128/">Orlando Lira 😃️</a>
+    Hi there, I'm 
+    <a href="https://www.linkedin.com/in/orlando-lira-584289128/">Orlando Lira! 😃️</a>
   </h1>
-  
+  - 📍 Rio de Janeiro, Brazil &nbsp;
+  - 📚 Computer Science student at Rio de Janeiro State University - UERJ &nbsp; 
+  - 💗 Passionate about programming and software development  
+  - 👨🏻‍💻 Currently learning Python and Web Development  
+  - 💻 Discord: OrlandoLira#1234  
+  - 📫 Email: orlandolira94@gmail.com  
+  - 🌐 Website:  building 
+  - 🔍 LinkedIn: https://www.linkedin.com/in/orlando-lira-584289128/
 <!--   <p align="center">
     Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
