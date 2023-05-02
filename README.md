@@ -1,10 +1,4 @@
-<div>
-  
-  <h1 align="center">
-    Hi there, I'm 
-    <a href="https://www.linkedin.com/in/orlando-lira-584289128/">Orlando Lira! 😃️</a>
-  </h1>
-</div>
+### Hi there, I'm Orlando Lira! 👋
 ##
 - 📍 Rio de Janeiro, Brazil &nbsp;
 - 📚 Computer Science student at Rio de Janeiro State University - UERJ &nbsp; 
