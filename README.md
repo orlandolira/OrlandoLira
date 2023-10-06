@@ -41,7 +41,3 @@
  ##
 
 <!--  ![Snake animation](https://github.com/orlandolira/orlandolira/blob/output/github-contribution-grid-snake.svg) -->
-
-<div align ="center">
-  <img src="https://gpvc.arturio.dev/orlandolira" alt="visitors">
-</div>
